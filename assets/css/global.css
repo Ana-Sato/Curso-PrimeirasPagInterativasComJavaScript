@@ -8,15 +8,14 @@ body {
 }
 
 .content {
-    width: 100vw;
+    width: 100%;
     padding: 1rem;
-    margin: 1rem auto;
     background-color: #fff;
-    border-radius: 1rem;
 }
 
 .content h1 {
     margin: 0;
+    padding-left: 7px;
 }
 
 @media screen and (min-width: 380px) {
